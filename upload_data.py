@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 conn = s2.connect(
-    "ayush:Test1234@svc-3482219c-a389-4079-b18b-d50662524e8a-shared-dml.aws-virginia-6.svc.singlestore.com:3333/database_79fb0"
+    "YOUR_SINGLESTORE_DB_URL"
 )
 
 
